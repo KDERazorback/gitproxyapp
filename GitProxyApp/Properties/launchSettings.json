@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GitProxyApp": {
+      "commandName": "Project",
+      "commandLineArgs": "status"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+.vs/
+GitProxyApp/obj/
+GitProxyApp/bin/
+*.user
+GitProxyApp/Properties/PublishProfiles/
